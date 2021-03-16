@@ -1,0 +1,26 @@
+{
+  "name": "typescript-csv-transforming",
+  "version": "1.0.0",
+  "description": "## Setup",
+  "main": "index.js",
+  "scripts": {
+    "start:build": "tsc -W",
+    "start:run": "nodemon build/index.js",
+    "start": "concurrently npm:start:*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evaou/typescript-csv-transforming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evaou/typescript-csv-transforming/issues"
+  },
+  "homepage": "https://github.com/evaou/typescript-csv-transforming#readme",
+  "dependencies": {
+    "concurrently": "^6.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
