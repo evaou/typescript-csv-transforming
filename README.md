@@ -1,5 +1,9 @@
 # CSV Transforming
 
+## Focus
+
+Apply enum
+
 ## Setup
 
     $ npm init -y
