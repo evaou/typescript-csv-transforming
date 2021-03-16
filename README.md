@@ -2,7 +2,7 @@
 
 ## Focus
 
-Apply enum
+Apply enum, tuple, generic
 
 ## Setup
 
